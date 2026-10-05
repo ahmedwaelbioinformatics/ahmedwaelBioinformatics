@@ -2,7 +2,7 @@
 
 ### Bioinformatician | Lecturer Assistant | Agricultural & Environmental Biotechnology
 
-I am a bioinformatician and teaching assistant working at the intersection of **genomics, transcriptomics, metagenomics, and computational biology**.
+I am a bioinformatician and lecturer assistant working at the intersection of **genomics, transcriptomics, metagenomics, and computational biology**.
 
 My research interests include plant molecular biology, mitochondrial genomics, RNA editing, drought stress responses, microbiome analysis, and computational approaches for biological data analysis.
 

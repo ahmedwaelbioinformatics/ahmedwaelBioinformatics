@@ -1,6 +1,6 @@
 ## # Hi, I'm Ahmed Wael Lethy 👋
 
-### Bioinformatician | Teaching Assistant | Agricultural & Environmental Biotechnology
+### Bioinformatician | Lecturer Assistant | Agricultural & Environmental Biotechnology
 
 I am a bioinformatician and teaching assistant working at the intersection of **genomics, transcriptomics, metagenomics, and computational biology**.
 
